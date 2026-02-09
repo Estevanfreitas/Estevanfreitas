@@ -3,7 +3,7 @@
 - 🧠 Sobre mim
 
 - 📚 Estudo analise e desenvolvimento de sistema focando em Back-End
-- 🔧 Desenvolvedor iniciante focado em C#, .NET Framework, Phyton
+- 🔧 Desenvolvedor iniciante focado em Phyton e Lógica de Programação
 - 🎮 Gamer nas horas vagas, coder o tempo todo
 
 [![Pacman Animation](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg)](https://github.com/Platane/snk)
@@ -16,9 +16,7 @@
 ## 🚀 Tecnologias que estou estudando e pratico:
 
 <p align="left">
-  <img src="https://img.shields.io/badge/C%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white" />
-  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
-  <img src="https://img.shields.io/badge/POO-OOP-%239926CC?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Lógica de Programação-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=python&logoColor=white" />
 </p>
 
