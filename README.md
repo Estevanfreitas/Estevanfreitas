@@ -5,7 +5,6 @@
 - 🔧 Desenvolvedor em formação com foco em **Python**, **lógica de programação** e **POO**
 - 📌 Em constante evolução por meio de estudos e projetos práticos
 
----
 
 ## 🚀 Tecnologias em estudo
 <p align="left">
@@ -15,15 +14,13 @@
   <img src="https://img.shields.io/badge/Git_GitHub-181717.svg?style=for-the-badge&logo=github&logoColor=white" />
 </p>
 
----
+
 
 ## 🔍 Objetivo
 Busco oportunidades de **estágio em Desenvolvimento de Software (Back-End)**, com foco em aprendizado técnico, participação em projetos reais e crescimento profissional.
 
----
 
 <p align="center">
----
 
 ## 📫 Contato
 <p align="left">
