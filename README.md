@@ -1,33 +1,31 @@
-## <h1 align="center">Ola, Eu sou o Estevan Freitas 👋
+<h1 align="center">Olá, eu sou o Estevan Freitas 👋</h1>
 
-- 🧠 Sobre mim
+## 🧠 Sobre mim
+- 🎓 Estudante de Análise e Desenvolvimento de Sistemas com foco em Back-End
+- 🔧 Desenvolvedor em formação com foco em Python, lógica de programação e POO
+- 📌 Em constante evolução por meio de estudos e projetos práticos
 
-- 📚 Estudo analise e desenvolvimento de sistema focando em Back-End
-- 🔧 Desenvolvedor iniciante focado em Phyton e Lógica de Programação
-- 🎮 Gamer nas horas vagas, coder o tempo todo
+## 🚀 Tecnologias em estudo
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Lógica_de_Programação-239120.svg?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Git_GitHub-181717.svg?style=for-the-badge&logo=github&logoColor=white" />
+</p>
 
-[![Pacman Animation](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg)](https://github.com/Platane/snk)
+## 🔍 Objetivo
+Busco oportunidades de estágio ou posições júnior em Desenvolvimento de Software (Back-End), com foco em aprendizado técnico, projetos reais e crescimento profissional.
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Estevanfreitas&show_icons=true&theme=tokyonight&hide_title=true" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Estevanfreitas&layout=compact&theme=tokyonight" />
 </p>
 
-## 🚀 Tecnologias que estou estudando e pratico:
-
+## 📫 Contato
 <p align="left">
-  <img src="https://img.shields.io/badge/Lógica de Programação-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=python&logoColor=white" />
-</p>
-
-## 🔍 Buscando:
-Oportunidades de estágio ou posições júnior em Desenvolvimento de Software (Back-End), com foco em projetos reais, aprendizado técnico e crescimento profissional.
-
-## 📫 Onde me encontrar
-
-Vamos conversar? Estou aberto a conexões com profissionais da área, mentores e recrutadores.
-
-<p align="left">
-  <a href="mailto:estevanfreitassilveira@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/estevan-freitas-506294215/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:estevanfreitassilveira@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/estevan-freitas-506294215/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
 </p>
