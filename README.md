@@ -23,8 +23,6 @@ Busco oportunidades de **estágio em Desenvolvimento de Software (Back-End)**, c
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Estevanfreitas&show_icons=true&theme=tokyonight&hide_title=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Estevanfreitas&layout=compact&theme=tokyonight" />
 </p>
 
 ---
