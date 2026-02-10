@@ -23,8 +23,6 @@ Busco oportunidades de **estágio em Desenvolvimento de Software (Back-End)**, c
 ---
 
 <p align="center">
-</p>
-
 ---
 
 ## 📫 Contato
